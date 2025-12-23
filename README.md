@@ -4,13 +4,17 @@
 Estudante de Tecnologia da Informação • Desenvolvedor em formação
 </p>
 
+<p align="center">
+🧠 Aprendendo na prática • 🚀 Construindo projetos • 🐧 Linux enthusiast
+</p>
+
 ---
 
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de TI  
-- 💻 Foco em **desenvolvimento web**, **backend** e **Linux**
-- 🧠 Curioso por sistemas, automação e como as coisas funcionam por baixo do capô
+- 💻 Interesse principal em **desenvolvimento web**, **backend** e **sistemas**
+- 🧩 Gosto de entender como as coisas funcionam internamente
 - 📍 Recife, Brasil  
 
 ---
@@ -20,31 +24,41 @@ Estudante de Tecnologia da Informação • Desenvolvedor em formação
 **Linguagens**
 - JavaScript
 - C#
-- HTML & CSS  
+- HTML & CSS
 - Rust *(em aprendizado)*
 
-**Outros**
+**Ambiente & Stack**
 - Linux
 - Git & GitHub
 - PostgreSQL *(em aprendizado)*
 
 ---
 
-### 📌 Projetos em destaque
+### 🎯 O que estou aprendendo agora
 
-👉 Veja os repositórios fixados abaixo  
-Sempre buscando melhorar organização, código limpo e documentação.
+- 🔹 Estruturação de projetos reais (frontend + backend)
+- 🔹 Boas práticas com Git e organização de repositórios
+- 🔹 Backend e banco de dados
+- 🔹 Conceitos de sistemas e automação
 
 ---
 
-### 📊 Status atual
+### 📌 Projetos
 
-- 🔁 Estudando todos os dias
-- 🧪 Criando projetos práticos
-- 📈 Evolução constante > perfeição
+👉 Confira os **repositórios fixados abaixo**  
+Projetos focados em aprendizado prático, evolução contínua e código limpo.
+
+---
+
+### 📊 GitHub em números
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=davi-amaraldev&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-amaraldev&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
 <p align="center">
-<em>"Aprender construindo é o caminho."</em>
+<em>Consistência > velocidade.</em>
 </p>
