@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Davi</h1>
 
-<!--
-**davi-amaraldev/davi-amaraldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Estudante de Tecnologia da Informação • Desenvolvedor em formação
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 🎓 Estudante de TI  
+- 💻 Foco em **desenvolvimento web**, **backend** e **Linux**
+- 🧠 Curioso por sistemas, automação e como as coisas funcionam por baixo do capô
+- 📍 Recife, Brasil  
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+**Linguagens**
+- JavaScript
+- C#
+- HTML & CSS  
+- Rust *(em aprendizado)*
+
+**Outros**
+- Linux
+- Git & GitHub
+- PostgreSQL *(em aprendizado)*
+
+---
+
+### 📌 Projetos em destaque
+
+👉 Veja os repositórios fixados abaixo  
+Sempre buscando melhorar organização, código limpo e documentação.
+
+---
+
+### 📊 Status atual
+
+- 🔁 Estudando todos os dias
+- 🧪 Criando projetos práticos
+- 📈 Evolução constante > perfeição
+
+---
+
+<p align="center">
+<em>"Aprender construindo é o caminho."</em>
+</p>
