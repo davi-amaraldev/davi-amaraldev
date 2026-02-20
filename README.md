@@ -1,73 +1,72 @@
 <p align="center">
-  <img src="./header.png" alt="Davi" />
+  <img src="./header.png" />
 </p>
 
-# Davi Amaral
-backend engineer · node.js · go · systems
+<h3 align="center">backend engineer</h3>
+<p align="center">node.js · go · systems · linux</p>
 
 ---
 
-## about
+### 🧱 building
 
-Backend developer focado em **Node.js (TypeScript)** e **Go**.  
-Construo APIs e serviços pensando em **clareza, manutenção e longevidade**.
+APIs  
+services  
+systems that survive refactors  
 
-Prefiro sistemas bem pensados a soluções rápidas.  
-Código simples escala. Complexidade desnecessária não.
-
-Atualmente desenvolvendo sistemas reais na  
-**Revista do Empreendedor Jovem**.
+I care about structure, readability and long-term maintenance.
 
 ---
 
-## stack
+### 🛠 stack
 
 **languages**  
-TypeScript · JavaScript · Go  
+Javascript · TypeScript · Go · SQL
 
 **backend**  
-Node.js · Express · REST APIs  
-Arquitetura em camadas · Clean code  
+Node.js  
+REST APIs  
+Layered architecture  
 
 **data**  
-PostgreSQL · MySQL  
+PostgreSQL  
 
-**tools**  
-Linux · Git · Docker  
-
----
-
-## current focus
-
-- Arquitetura backend sólida  
-- Design de APIs  
-- Sistemas escaláveis  
-- Go mais profundo  
-- Infraestrutura e deploy  
+**environment**  
+Linux  
+Docker  
+Git  
 
 ---
 
-## projects
+### 🎯 current focus
+
+- Backend architecture  
+- Go services  
+- Scalable systems  
+- Infrastructure  
+- Clean code  
+
+---
+
+### 🧩 work
+
+Backend developer  
+Revista do Empreendedor Jovem  
+
+---
+
+### 🔗 links
 
 GitHub  
 https://github.com/davi-amaraldev  
 
-Site  
+Website  
 https://imdavi.com.br  
 
-Artigos  
-https://revistadoempreendedorjovem.com.br  
-
----
-
-## contact
-
-Email  
-**davicodarini@gmail.com**
-
 LinkedIn  
-https://www.linkedin.com/in/davi-amaral-a11955372/
+https://www.linkedin.com/in/davi-amaral-a11955372  
 
 ---
 
-> _software over hype_
+<p align="center">
+  <sub>systems over hype</sub>
+</p>
