@@ -1,74 +1,73 @@
 <p align="center">
-  <img src="./header.png" alt="Davi Dev" />
+  <img src="./header.png" alt="Davi" />
 </p>
 
-## 👋 Sobre
-
-Sou **Desenvolvedor Backend**, com foco em **Node.js (TypeScript)** e **Go**.  
-Tenho interesse em **arquitetura de software**, **sistemas escaláveis**, **boas práticas de engenharia** e **ambientes Linux**.
-
-Atualmente desenvolvo sistemas e APIs voltados a aplicações reais, buscando código limpo, previsível e sustentável.
+# Davi Amaral
+backend engineer · node.js · go · systems
 
 ---
 
-## 🧩 Atuação atual
+## about
 
-- Backend developer na **Revista do Empreendedor Jovem**
-- Desenvolvimento de **APIs REST**
-- Estruturação de projetos com foco em **manutenibilidade**
-- Integração com bancos de dados relacionais
+Backend developer focado em **Node.js (TypeScript)** e **Go**.  
+Construo APIs e serviços pensando em **clareza, manutenção e longevidade**.
 
----
+Prefiro sistemas bem pensados a soluções rápidas.  
+Código simples escala. Complexidade desnecessária não.
 
-## 🧠 Conhecimentos técnicos
-
-### Linguagens
-- TypeScript
-- JavaScript
-- Go
-
-### Backend
-- Node.js
-- Express
-- APIs REST
-- Arquitetura em camadas
-- Princípios de Clean Code
-
-### Bancos de dados
-- PostgreSQL
-- MySQL
-
-### Infra & Ferramentas
-- Linux
-- Git
-- Docker (nível inicial)
-- Ambientes UNIX-like
+Atualmente desenvolvendo sistemas reais na  
+**Revista do Empreendedor Jovem**.
 
 ---
 
-## 📐 Interesses técnicos
+## stack
 
-- Arquitetura de software
-- Escalabilidade
-- Design de APIs
-- Sistemas distribuídos (em estudo)
-- Boas práticas de backend
+**languages**  
+TypeScript · JavaScript · Go  
 
----
+**backend**  
+Node.js · Express · REST APIs  
+Arquitetura em camadas · Clean code  
 
-## 📌 Projetos
+**data**  
+PostgreSQL · MySQL  
 
-- GitHub: https://github.com/davi-amaraldev  
-- Site pessoal: https://imdavi.com.br  
-- Artigos técnicos: https://revistadoempreendedorjovem.com.br  
-
----
-
-## 📫 Contato
-
-- Email: **davicodarini@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/davi-amaral-a11955372/
+**tools**  
+Linux · Git · Docker  
 
 ---
 
-> _“Prefiro sistemas bem pensados a soluções rápidas.”_
+## current focus
+
+- Arquitetura backend sólida  
+- Design de APIs  
+- Sistemas escaláveis  
+- Go mais profundo  
+- Infraestrutura e deploy  
+
+---
+
+## projects
+
+GitHub  
+https://github.com/davi-amaraldev  
+
+Site  
+https://imdavi.com.br  
+
+Artigos  
+https://revistadoempreendedorjovem.com.br  
+
+---
+
+## contact
+
+Email  
+**davicodarini@gmail.com**
+
+LinkedIn  
+https://www.linkedin.com/in/davi-amaral-a11955372/
+
+---
+
+> _software over hype_
