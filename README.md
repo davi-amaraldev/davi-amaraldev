@@ -1,72 +1,124 @@
-<p align="center">
-  <img src="./header.png" />
-</p>
+# DAVI AMARAL
 
-<h3 align="center">backend engineer</h3>
-<p align="center">node.js · go · systems · linux</p>
+## Backend Engineer in Construction
 
----
+**Node.js · TypeScript · Go · APIs · Systems Thinking**
 
-### 🧱 building
-
-APIs  
-services  
-systems that survive refactors  
-
-I care about structure, readability and long-term maintenance.
+[GitHub](https://github.com/davi-amaraldev) • [LinkedIn](https://www.linkedin.com/in/davi-amaral-a11955372/)
 
 ---
 
-### 🛠 stack
+## whoami
 
-**languages**  
-Javascript · TypeScript · Go · SQL
+I am Davi Amaral, a technology student building a career around backend development, software structure, and long-term technical mastery.
 
-**backend**  
-Node.js  
-REST APIs  
-Layered architecture  
+My work is guided by a simple principle:
 
-**data**  
-PostgreSQL  
+> Write systems that are clear, dependable, and built with intent.
 
-**environment**  
-Linux  
-Docker  
-Git  
+I am currently focused on developing strong foundations in **Node.js**, **TypeScript**, and **Go**, while sharpening my understanding of architecture, APIs, databases, and engineering discipline.
 
 ---
 
-### 🎯 current focus
+## status
 
-- Backend architecture  
-- Go services  
-- Scalable systems  
-- Infrastructure  
-- Clean code  
-
----
-
-### 🧩 work
-
-Backend developer  
-Revista do Empreendedor Jovem  
+```text
+name:        Davi Amaral
+role:        Technology Student
+direction:   Backend Engineering
+main stack:  Node.js, TypeScript, Go
+approach:    Structure > Noise
+goal:        Become a technically strong and highly employable developer
+```
 
 ---
 
-### 🔗 links
+## philosophy
 
-GitHub  
-https://github.com/davi-amaraldev  
+Most profiles try to impress with volume.
 
-Website  
-https://imdavi.com.br  
+I prefer precision.
 
-LinkedIn  
-https://www.linkedin.com/in/davi-amaral-a11955372  
+I am not trying to look like I know everything.  
+I am building proof that I can learn fast, think clearly, and create software with consistency.
+
+That means:
+
+- learning fundamentals seriously
+- documenting projects properly
+- valuing clean structure over shortcuts
+- treating every build as a step toward mastery
 
 ---
 
-<p align="center">
-  <sub>systems over hype</sub>
-</p>
+## core focus
+
+### Backend development
+
+Designing and building applications with strong structure, readable code, and practical value.
+
+### TypeScript and Node.js
+
+Using JavaScript professionally, with more safety, better architecture, and cleaner development practices.
+
+### Go
+
+Expanding into a language that rewards simplicity, performance, and engineering clarity.
+
+### Systems thinking
+
+Understanding not only how to code features, but how to organize software so it remains maintainable over time.
+
+---
+
+## current priorities
+
+- Build backend projects that demonstrate real skill
+- Improve system design and code organization
+- Deepen knowledge of REST APIs, authentication, and databases
+- Strengthen portfolio quality instead of just increasing project count
+- Develop a professional identity around serious technical work
+
+---
+
+## engineering principles
+
+```text
+1. Clarity before cleverness
+2. Discipline before motivation
+3. Consistency before intensity
+4. Structure before scale
+5. Mastery before vanity
+```
+
+---
+
+## trajectory
+
+I am building myself into the kind of developer who can be trusted with real systems.
+
+Not by talking about it.
+
+By studying, building, refining, and repeating.
+
+---
+
+## signal
+
+```text
+I am interested in backend engineering, software architecture,
+clean code, performance, and the discipline required to become excellent.
+```
+
+---
+
+## contact
+
+- GitHub: [davi-amaraldev](https://github.com/davi-amaraldev)
+- LinkedIn: [Davi Amaral](https://www.linkedin.com/in/davi-amaral-a11955372/)
+
+---
+
+## end_of_file
+
+**Building with intention. Improving without shortcuts.**
