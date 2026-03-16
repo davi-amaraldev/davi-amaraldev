@@ -2,7 +2,7 @@
 
 ## Backend Engineer in Construction
 
-**Node.js · TypeScript · Go · APIs · Systems Thinking**
+**Node.js · TypeScript · APIs · Systems Thinking**
 
 [GitHub](https://github.com/davi-amaraldev) • [LinkedIn](https://www.linkedin.com/in/davi-amaral-a11955372/)
 
@@ -16,7 +16,7 @@ My work is guided by a simple principle:
 
 > Write systems that are clear, dependable, and built with intent.
 
-I am currently focused on developing strong foundations in **Node.js**, **TypeScript**, and **Go**, while sharpening my understanding of architecture, APIs, databases, and engineering discipline.
+I am currently focused on developing strong foundations in backend development, while sharpening my understanding of architecture, APIs, databases, and engineering discipline.
 
 ---
 
@@ -26,7 +26,7 @@ I am currently focused on developing strong foundations in **Node.js**, **TypeSc
 name:        Davi Amaral
 role:        Technology Student
 direction:   Backend Engineering
-main stack:  Node.js, TypeScript, Go
+main stack:  Node.js, TypeScript
 approach:    Structure > Noise
 goal:        Become a technically strong and highly employable developer
 ```
@@ -61,13 +61,13 @@ Designing and building applications with strong structure, readable code, and pr
 
 Using JavaScript professionally, with more safety, better architecture, and cleaner development practices.
 
-### Go
+### Software architecture
 
-Expanding into a language that rewards simplicity, performance, and engineering clarity.
+Learning how to design systems that remain understandable, maintainable, and dependable over time.
 
 ### Systems thinking
 
-Understanding not only how to code features, but how to organize software so it remains maintainable over time.
+Understanding not only how to code features, but how to organize software so it scales with clarity.
 
 ---
 
