@@ -1,75 +1,94 @@
-# 👋 Olá, eu sou Davi Amaral
+<div align="center">
 
-💻 Estudante de Engenharia de Software  
-🚀 Focado em Backend Development com Node.js, TypeScript e Go  
-📚 Apaixonado por computação, arquitetura de software e sistemas escaláveis  
-🌎 Pernambuco, Brasil  
+# Davi Amaral
 
----
+### Backend Developer in Progress
 
-## 🧠 Sobre mim
+Node.js • TypeScript • Go • Software Engineering
 
-Desde pequeno, sempre fui curioso sobre como as coisas funcionam por trás das telas.  
-Hoje direciono essa curiosidade para desenvolvimento backend, estudando construção de APIs, bancos de dados, arquitetura de sistemas e infraestrutura moderna.
+<br>
 
-Gosto de criar projetos que me desafiem tecnicamente e me façam evoluir como desenvolvedor.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Development;Software+Engineering;Building+Scalable+Systems;Always+Learning+New+Things" />
+
+</div>
 
 ---
 
-## ⚙️ Tecnologias
+## About Me
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
+```ts
+const davi = {
+  location: "João Pessoa, Paraíba - Brazil",
+  focus: ["Backend", "APIs", "Software Architecture"],
+  
+  mainStack: {
+    backend: ["Node.js", "TypeScript", "Go"],
+    database: ["PostgreSQL", "SQLite"],
+    tools: ["Docker", "Git", "Linux"]
+  },
 
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 📖 Atualmente estudando
-
-- Arquitetura Backend
-- APIs REST
-- TypeScript avançado
-- Bancos de dados relacionais
-- Docker & Infraestrutura
-- CI/CD
-- Go para backend de alta performance
+  currentlyLearning: [
+    "System Design",
+    "CI/CD",
+    "Infrastructure",
+    "Advanced Backend Concepts"
+  ]
+}
+```
 
 ---
 
-## 🎯 Objetivos
+## Tech Stack
 
-- Evoluir para engenharia de software em nível profissional
-- Trabalhar com sistemas escaláveis
-- Contribuir para projetos relevantes
-- Construir produtos úteis e bem arquitetados
+<div align="center">
 
----
+### Languages & Backend
 
-## 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,go" />
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-amaraldev&show_icons=true&theme=transparent)
+### Database & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-amaraldev&layout=compact&theme=transparent)
+<img src="https://skillicons.dev/icons?i=postgresql,docker,git,linux,vscode" />
 
----
-
-## 🌐 Contato
-
-- LinkedIn: https://linkedin.com/in/davi-amaral-a11955372/
-- GitHub: https://github.com/davi-amaraldev
+</div>
 
 ---
 
-> “Great software is built with curiosity, consistency and patience.”
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-amaraldev&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-amaraldev&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## Current Goals
+
+- Build solid backend projects
+- Improve software architecture skills
+- Deep dive into scalable systems
+- Become a high-level software engineer
+
+---
+
+## Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davi-amaral-a11955372/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/davi-amaraldev)
+
+</div>
+
+---
+
+<div align="center">
+
+> "Great software is built with curiosity, consistency and patience."
+
+</div>
