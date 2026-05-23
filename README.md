@@ -19,8 +19,13 @@ Node.js • TypeScript • Go • Software Engineering
 ```ts
 const davi = {
   location: "João Pessoa, Paraíba - Brazil",
-  focus: ["Backend", "APIs", "Software Architecture"],
-  
+
+  focus: [
+    "Backend Development",
+    "Software Architecture",
+    "Scalable Systems"
+  ],
+
   mainStack: {
     backend: ["Node.js", "TypeScript", "Go"],
     database: ["PostgreSQL", "SQLite"],
@@ -42,13 +47,7 @@ const davi = {
 
 <div align="center">
 
-### Languages & Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,go" />
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=postgresql,docker,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,go,postgresql,docker,git,linux,vscode" />
 
 </div>
 
@@ -58,9 +57,17 @@ const davi = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-amaraldev&show_icons=true&theme=transparent&hide_border=true"/>
+<img 
+  height="170" 
+  src="https://github-readme-stats.vercel.app/api?username=davi-amaraldev&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" 
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-amaraldev&layout=compact&theme=transparent&hide_border=true"/>
+<br><br>
+
+<img 
+  height="170" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-amaraldev&layout=compact&theme=github_dark&hide_border=true&border_radius=12" 
+/>
 
 </div>
 
@@ -79,9 +86,13 @@ const davi = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davi-amaral-a11955372/)
+<a href="https://linkedin.com/in/davi-amaral-a11955372">
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/davi-amaraldev)
+<a href="https://github.com/davi-amaraldev">
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -89,6 +100,6 @@ const davi = {
 
 <div align="center">
 
-> "Great software is built with curiosity, consistency and patience."
+### “Great software is built with curiosity, consistency and patience.”
 
 </div>
