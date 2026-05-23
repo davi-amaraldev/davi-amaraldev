@@ -2,13 +2,13 @@
 
 # Davi Amaral
 
-### Backend Developer in Progress
+### Software Engineer
 
-Node.js • TypeScript • Go • Software Engineering
+Technology • Software • Systems
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Development;Software+Engineering;Building+Scalable+Systems;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineering;Building+Modern+Systems;Technology+Enthusiast;Always+Learning+New+Things" />
 
 </div>
 
@@ -20,23 +20,29 @@ Node.js • TypeScript • Go • Software Engineering
 const davi = {
   location: "João Pessoa, Paraíba - Brazil",
 
-  focus: [
-    "Backend Development",
-    "Software Architecture",
-    "Scalable Systems"
+  education: {
+    university: "UNIPÊ",
+    course: "Software Engineering"
+  },
+
+  interests: [
+    "Software Engineering",
+    "Technology",
+    "Systems",
+    "Programming"
   ],
 
   mainStack: {
-    backend: ["Node.js", "TypeScript", "Go"],
+    languages: ["TypeScript", "JavaScript", "Go"],
     database: ["PostgreSQL", "SQLite"],
     tools: ["Docker", "Git", "Linux"]
   },
 
   currentlyLearning: [
-    "System Design",
-    "CI/CD",
+    "Software Architecture",
     "Infrastructure",
-    "Advanced Backend Concepts"
+    "System Design",
+    "Advanced Programming Concepts"
   ]
 }
 ```
@@ -47,27 +53,7 @@ const davi = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,go,postgresql,docker,git,linux,vscode" />
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img 
-  height="170" 
-  src="https://github-readme-stats.vercel.app/api?username=davi-amaraldev&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" 
-/>
-
-<br><br>
-
-<img 
-  height="170" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-amaraldev&layout=compact&theme=github_dark&hide_border=true&border_radius=12" 
-/>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,go,postgresql,docker,git,linux,vscode" />
 
 </div>
 
@@ -75,10 +61,10 @@ const davi = {
 
 ## Current Goals
 
-- Build solid backend projects
-- Improve software architecture skills
-- Deep dive into scalable systems
-- Become a high-level software engineer
+- Build impactful software
+- Improve engineering skills
+- Create scalable systems
+- Grow as a software engineer
 
 ---
 
