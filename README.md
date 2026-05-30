@@ -53,7 +53,7 @@ const davi = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,go,postgresql,docker,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,postgresql,docker,git,linux,vscode" />
 
 </div>
 
