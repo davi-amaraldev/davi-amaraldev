@@ -33,7 +33,7 @@ const davi = {
   ],
 
   mainStack: {
-    languages: ["TypeScript", "JavaScript", "Go"],
+    languages: ["TypeScript", "JavaScript"],
     database: ["PostgreSQL", "SQLite"],
     tools: ["Docker", "Git", "Linux"]
   },
