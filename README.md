@@ -1,91 +1,47 @@
-<div align="center">
-
 # Davi Amaral
 
-### Software Engineer
+### Software Engineering student focused on backend development
 
-Technology • Software • Systems
+I'm a Software Engineering student at UNIPÊ and a technical graduate in Systems Development.
 
-<br>
+Currently, I'm building a strong foundation in backend development with JavaScript, TypeScript and Node.js. I enjoy understanding how applications work behind the scenes, from HTTP and APIs to databases and software architecture.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineering;Building+Modern+Systems;Technology+Enthusiast;Always+Learning+New+Things" />
+## Currently focused on
 
-</div>
+- Backend development with Node.js
+- JavaScript and TypeScript
+- REST APIs and HTTP
+- PostgreSQL and SQL
+- Software engineering fundamentals
 
----
+## Technologies
 
-## About Me
+- JavaScript
+- TypeScript
+- Node.js
+- PostgreSQL
+- Git and GitHub
+- Linux
 
-```ts
-const davi = {
-  location: "João Pessoa, Paraíba - Brazil",
+## Featured projects
 
-  education: {
-    university: "UNIPÊ",
-    course: "Software Engineering"
-  },
+### StudyQuest
 
-  interests: [
-    "Software Engineering",
-    "Technology",
-    "Systems",
-    "Programming"
-  ],
+A gamified study tracker built with Vanilla JavaScript, ES Modules, Object-Oriented Programming and localStorage.
 
-  mainStack: {
-    languages: ["TypeScript", "JavaScript"],
-    database: ["PostgreSQL", "SQLite"],
-    tools: ["Docker", "Git", "Linux"]
-  },
+### JavaScript Studies
 
-  currentlyLearning: [
-    "Software Architecture",
-    "Infrastructure",
-    "System Design",
-    "Advanced Programming Concepts"
-  ]
-}
-```
+A collection of exercises and projects documenting my progress through JavaScript fundamentals, asynchronous programming, OOP and Node.js.
 
----
+### Radar — In development
 
-## Tech Stack
+A personal project focused on collecting and organizing useful information through a backend API.
 
-<div align="center">
+## Education
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,postgresql,docker,git,linux,vscode" />
-
-</div>
-
----
-
-## Current Goals
-
-- Build impactful software
-- Improve engineering skills
-- Create scalable systems
-- Grow as a software engineer
-
----
+- Software Engineering — UNIPÊ
+- Technical degree in Systems Development — ETEMAA
 
 ## Contact
 
-<div align="center">
-
-<a href="https://linkedin.com/in/davi-amaral-a11955372">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/davi-amaraldev">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### “Great software is built with curiosity, consistency and patience.”
-
-</div>
+- LinkedIn: https://www.linkedin.com/in/davi-amaraldev
