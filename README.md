@@ -82,6 +82,4 @@ The application also includes a web interface connected to the API.
 
 ---
 
-<p align="center">
-  Building software engineered to perform.
-</p>
+
