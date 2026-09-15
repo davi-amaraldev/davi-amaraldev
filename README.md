@@ -65,37 +65,17 @@ It's learning how to:
 
 ### Current path
 
-### Current path
-
 ```mermaid
-flowchart LR
-    subgraph Fundamentals["Java Fundamentals"]
-        A["Java"] --> B["OOP"]
-        B --> C["Collections & Generics"]
-        C --> D["Exceptions"]
-        D --> E["Testing"]
-    end
+flowchart TB
+    A["☕ Java Fundamentals<br/><br/>Java · OOP · Collections & Generics · Exceptions · Testing"]
+    B["🗄️ Data & Persistence<br/><br/>SQL · PostgreSQL · JDBC"]
+    C["🌐 Backend Development<br/><br/>HTTP · REST · Spring Boot · JPA / Hibernate · Spring Security"]
+    D["⚙️ Infrastructure & Quality<br/><br/>Docker · Integration Testing · CI"]
 
-    subgraph Data["Data & Persistence"]
-        F["SQL & PostgreSQL"] --> G["JDBC"]
-    end
-
-    subgraph Web["Backend Development"]
-        H["HTTP & REST"] --> I["Spring Boot"]
-        I --> J["JPA / Hibernate"]
-        J --> K["Spring Security"]
-    end
-
-    subgraph Infrastructure["Infrastructure"]
-        L["Docker"] --> M["Integration Testing"]
-    end
-
-    E --> F
-    G --> H
-    K --> L
+    A --> B
+    B --> C
+    C --> D
 ```
-
----
 
 ## 🛠️ Tech Stack
 
