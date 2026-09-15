@@ -2,7 +2,7 @@
 
 # Hey, I'm Davi Amaral 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend-Focused+Developer;Java+%7C+APIs+%7C+Databases+%7C+Architecture;Building+real+skills%2C+not+just+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend-Focused+Developer;Java+%7C+APIs+%7C+Databases+%7C+Architecture;Building+strong+engineering+foundations" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/davi-amaraldev">
@@ -27,9 +27,9 @@
 🎯 Focused on **Backend Development**
 ☕ Currently diving deeper into **Java, APIs, databases and software architecture**
 
-I'm focused on becoming a **backend engineer who understands more than syntax**.
+I'm focused on becoming a backend engineer who understands more than syntax.
 
-I want to understand how systems are designed, how responsibilities are separated, how data moves through an application and why certain architectural decisions make software easier — or harder — to maintain.
+I want to understand how systems are designed, how responsibilities are separated, how data moves through an application, how failures should be handled and why certain engineering decisions make software easier — or harder — to maintain.
 
 My main interests are:
 
@@ -46,7 +46,7 @@ My main interests are:
 
 ## 🧠 Current Focus
 
-Right now I'm strengthening my backend foundation through a **90-day Java Backend challenge**.
+Right now I'm strengthening my backend foundation through a **90-day Java Backend Engineering challenge**.
 
 The goal isn't just learning Java syntax or memorizing Spring annotations.
 
@@ -55,10 +55,11 @@ It's learning how to:
 * model problems;
 * design responsibilities;
 * write maintainable code;
-* work with databases;
-* build APIs;
 * test behavior;
-* understand architecture;
+* work with relational databases;
+* understand HTTP and REST;
+* build APIs;
+* understand persistence;
 * debug failures;
 * explain engineering decisions.
 
@@ -136,21 +137,23 @@ It's learning how to:
 
 <div align="center">
 
-### ☕ Java Backend — 90 Days
+### ☕ Java Backend Engineering — 90 Days
 
 </div>
 
-A long-term backend engineering challenge built around deliberate practice.
+A long-term backend engineering challenge built around deliberate practice and one evolving backend system.
 
-Instead of creating dozens of disconnected tutorial projects, I'm evolving my knowledge progressively from **plain Java fundamentals to production-oriented backend development**.
+Instead of creating dozens of disconnected tutorial projects, the challenge progresses from **plain Java fundamentals toward production-oriented backend development**.
 
-The journey includes:
+The roadmap includes:
 
-`Java` → `OOP` → `Testing` → `SQL` → `JDBC` → `HTTP` → `Spring Boot` → `Security` → `Docker`
+`Java` → `OOP` → `Testing` → `SQL` → `JDBC` → `HTTP` → `Spring Boot` → `JPA` → `Security` → `Docker` → `CI`
+
+The main project evolves alongside the challenge, gradually introducing persistence, APIs, authentication, testing and infrastructure.
 
 <p align="center">
   <a href="https://github.com/davi-amaraldev/java-backend-90d">
-    <img src="https://img.shields.io/badge/OPEN%20THE%20PROJECT-JAVA%20BACKEND%2090D-E63946?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/OPEN%20THE%20PROJECT-JAVA%20BACKEND%2090D-E63946?style=for-the-badge&logo=openjdk&logoColor=white" />
   </a>
 </p>
 
@@ -166,17 +169,25 @@ The journey includes:
 
 ### 🌐 Node HTTP Users API
 
-REST API built using Node.js' native HTTP module.
+A REST API built directly with Node.js' native HTTP APIs, without Express or another web framework.
 
-Created to understand what backend frameworks normally abstract away:
+The project started as an experiment to understand what frameworks abstract away and evolved into a complete backend application with:
 
-* HTTP methods
-* Routing
-* Request streams
-* CRUD
-* Validation
-* Error handling
-* API structure
+* RESTful CRUD operations
+* Native HTTP routing
+* Request and response handling
+* Input validation
+* SQLite persistence
+* Centralized error handling
+* CORS and preflight support
+* Unit and integration tests
+* Docker containerization
+* Persistent volumes
+* Caddy reverse proxy
+* HTTPS
+* Oracle Cloud deployment
+
+The main goal was to understand the layers between an HTTP request and a backend application running in production.
 
 <a href="https://github.com/davi-amaraldev/node-http-users-api">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
@@ -186,19 +197,25 @@ Created to understand what backend frameworks normally abstract away:
 
 <td width="50%" valign="top">
 
-### 🤖 Orni Bot
+### 🎮 StudyQuest
 
-A TypeScript bot created for a university study-group environment.
+A gamified study tracker built with Vanilla JavaScript.
 
-The project helped me practice:
+The application models users, courses, sections and study plans while tracking progress and persisting completed activities in the browser.
 
-* modularization;
-* command organization;
-* asynchronous behavior;
-* application structure;
-* deployment on a VPS.
+Built while practicing:
 
-<a href="https://github.com/davi-amaraldev/orni-bot">
+* Object-Oriented Programming
+* ES Modules
+* Domain modeling
+* Arrays and higher-order methods
+* DOM manipulation
+* Event handling
+* State management
+* LocalStorage persistence
+* Separation of responsibilities
+
+<a href="https://github.com/davi-amaraldev/study-quest">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -210,19 +227,24 @@ The project helped me practice:
 
 <td width="50%" valign="top">
 
-### 🎮 StudyQuest
+### 💸 Simple Finance Tracker
 
-Gamified study tracker developed with Vanilla JavaScript.
+A personal finance tracker for managing income and expenses.
+
+The application supports transaction creation and removal, automatically calculates the current balance and persists data locally.
 
 Built while practicing:
 
-* Object-Oriented Programming
+* Modular JavaScript
 * ES Modules
-* LocalStorage
 * State management
-* Separation of responsibilities
+* Separation of concerns
+* Pure functions
+* Event delegation
+* DOM manipulation
+* LocalStorage persistence
 
-<a href="https://github.com/davi-amaraldev/study-quest">
+<a href="https://github.com/davi-amaraldev/simple-finance-tracker">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -230,12 +252,24 @@ Built while practicing:
 
 <td width="50%" valign="top">
 
-### 🚀 More coming...
+### ⏱️ Focus Timer
 
-I'm constantly building projects while improving my understanding of backend engineering.
+A minimal productivity timer built with HTML, CSS and modular JavaScript.
 
-<a href="https://github.com/davi-amaraldev?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github" />
+The application supports starting, pausing and resetting sessions while preserving timer state and completed-session history in the browser.
+
+Built while practicing:
+
+* Modular JavaScript
+* Application state
+* DOM manipulation
+* LocalStorage
+* Separation of responsibilities
+* Browser-based application logic
+* Small-scale front-end architecture
+
+<a href="https://github.com/davi-amaraldev/timer-minimal-focus">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
@@ -329,7 +363,7 @@ When I'm building something, I don't want to stop at:
 I want to be able to answer:
 
 <details>
-<summary><b>Why does this class exist?</b></summary>
+<summary><b>Why does this class or module exist?</b></summary>
 
 <br>
 
