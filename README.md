@@ -65,51 +65,21 @@ It's learning how to:
 
 ### Current path
 
-`Java`
-
-↓
-
-`OOP`
-
-↓
-
-`Collections & Generics`
-
-↓
-
-`Exceptions`
-
-↓
-
-`Testing`
-
-↓
-
-`SQL & PostgreSQL`
-
-↓
-
-`JDBC`
-
-↓
-
-`HTTP & REST`
-
-↓
-
-`Spring Boot`
-
-↓
-
-`JPA / Hibernate`
-
-↓
-
-`Spring Security`
-
-↓
-
-`Docker & Integration Testing`
+```mermaid
+flowchart LR
+    A["☕ Java"] --> B["🧩 OOP"]
+    B --> C["📦 Collections & Generics"]
+    C --> D["⚠️ Exceptions"]
+    D --> E["🧪 Testing"]
+    E --> F["🗄️ SQL & PostgreSQL"]
+    F --> G["🔌 JDBC"]
+    G --> H["🌐 HTTP & REST"]
+    H --> I["🍃 Spring Boot"]
+    I --> J["💾 JPA / Hibernate"]
+    J --> K["🔐 Spring Security"]
+    K --> L["🐳 Docker"]
+    L --> M["🧪 Integration Testing"]
+```
 
 ---
 
